@@ -16,7 +16,7 @@ const SlotM = (props) => {
 					<h1>
 						{x} {y} {z}
 					</h1>
-					<h1>This is Matching</h1>
+					<h1>This is Matching. </h1>
 					<hr />
 				</div>
 			</>

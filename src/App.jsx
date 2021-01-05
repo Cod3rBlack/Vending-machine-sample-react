@@ -16,9 +16,11 @@ const App = () => {
 				</span>
 			</h1>
 			<div className='slot-matchine'>
-				<SlotM x=' 👍 ' y=' 👎 ' z=' ❤️ ' />
-				<SlotM x=' 👍' y=' 👍 ' z=' 👍 ' />
-				<SlotM x=' 🙉 ' y=' ❤️ ' z=' 🌹 ' />
+				<SlotM x='👍' y='👎' z='❤️' />
+
+				<SlotM x='👍' y='👍' z='👍' />
+
+				<SlotM x='👎' y='❤️' z='👍' />
 			</div>
 		</>
 	);
